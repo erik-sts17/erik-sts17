@@ -29,8 +29,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
-
-
 <img 
     align="left" 
     alt="Oracle" 
@@ -39,7 +37,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
-
 
 <img 
     align="left" 
@@ -99,6 +96,6 @@
 [![](https://visitcount.itsvg.in/api?id=erik-sts17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🐍 GitHub Snake
-![snake dark](https://github.com/erik-sts17/erik/blob/output/github-snake-dark.svg?palette=github-dark)
+![snake dark](https://github.com/erik-sts17/erik-sts17/blob/output/github-snake-dark.svg?palette=github-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
