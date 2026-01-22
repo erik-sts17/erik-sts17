@@ -25,15 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erik-sts17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=erik-sts17&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Sobre mim
 - Desenvolvimento de **APIs REST**  
 - Integração com **RabbitMQ, Redis e serviços externos**
