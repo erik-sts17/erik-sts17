@@ -30,7 +30,3 @@ Atuo no desenvolvimento de APIs e integrações, trabalhando com **.NET** e banc
 Valorizo código limpo, clareza e boas decisões de arquitetura.
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=erik-sts17&color=6" />
-</p>
