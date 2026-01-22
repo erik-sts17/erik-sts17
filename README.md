@@ -25,11 +25,9 @@
 
 ---
 
-### 🚀 Sobre mim
-- Desenvolvimento de **APIs REST**  
-- Integração com **RabbitMQ, Redis e serviços externos**
-- Experiência com **Oracle e MongoDB**
-- Código limpo, SOLID e boas práticas
+### 🚀 Sobre
+Atuo no desenvolvimento de APIs e integrações, trabalhando com **.NET**, bancos relacionais e NoSQL.  
+Valorizo código limpo, clareza e boas decisões de arquitetura.
 
 ---
 
