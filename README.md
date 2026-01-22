@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Sobre
-Atuo no desenvolvimento de APIs e integrações, trabalhando com **.NET**, bancos relacionais e NoSQL.  
+Atuo no desenvolvimento de APIs e integrações, trabalhando com **.NET** e bancos relacionais e NoSQL.  
 Valorizo código limpo, clareza e boas decisões de arquitetura.
 
 ---
