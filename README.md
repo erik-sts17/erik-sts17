@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Erik Santos
 
 💻 **Desenvolvedor Back-End**  
-🎯 Foco em **.NET, mensageria, APIs e banco de dados**
+🎯 Foco em **.NET e banco de dados**
 
 ---
 
